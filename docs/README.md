@@ -6,13 +6,13 @@ Partiendo del ejercicio Loc@s por las bicis cambiaremos la forma de mostrar los 
 2. En la consola posiciónate en la carpeta **bicis-locas** e inicializa un repositorio en dicha carpeta
 3. Crea un repositorio que se llame **bicis-locas** en GITHUB, haz tu primer commit y sube los archivos al repositorio. 
 4. Abre el archivo **js/main.js** y completa la función **validateForm**, (puedes usar las validaciones anteriores) recuerda que las validaciones de los campos son las siguientes:
-- Todos los campos son obligatorios, excepto los dos últimos. 
-- Los campos nombre y apellido sólo deben permitir caracteres de la A-Z
-- Para los campos nombre y apellido la primera letra debe ser mayúscula
-- Validar que el campo email tenga un formato válido. Ej: name@domain.com
-- El campo password debe tener al menos 6 caracteres
-- El campo password no puede ser igual a "password" ó "123456" ó "098754"
-- El valor seleccionado de bicis, debe ser una de las opciones presentadas
+- 1.-Todos los campos son obligatorios, excepto los dos últimos. 
+- 2.-Los campos nombre y apellido sólo deben permitir caracteres de la A-Z
+- 3.-Para los campos nombre y apellido la primera letra debe ser mayúscula
+- 4.-Validar que el campo email tenga un formato válido. Ej: name@domain.com
+- 5.-El campo password debe tener al menos 6 caracteres
+- 6.-El campo password no puede ser igual a "password" ó "123456" ó "098754"
+- 7.-El valor seleccionado de bicis, debe ser una de las opciones presentadas
 
 NO SE PUEDE MODIFICAR NADA MÁS QUE EL ARCHIVO MAIN. 
 EN INDEX.HTML SOLO SE PUEDE AGREGAR LIBRERÍAS JQUERY EN EL HEAD.
